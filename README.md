@@ -40,6 +40,6 @@ Data Augmentation: Incorporate more data, such as additional news sources, socia
 
 
 
-Acknowledgements
+### Acknowledgements
 Stock Price Data: Provided by https://www.kaggle.com/code/siddharthtyagi/stock-sentiment-analysis-using-news-headlines/input
 Sentiment Data: Provided by https://www.kaggle.com/datasets/siddharthtyagi/news-headlines-dataset-for-stock-sentiment-analyze
