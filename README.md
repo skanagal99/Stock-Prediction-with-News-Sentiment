@@ -37,3 +37,9 @@ Feature Enhancement: Include more financial indicators (e.g., RSI, Bollinger Ban
 Advanced Modeling: Explore more sophisticated models, such as Gradient Boosting algorithms or neural networks, to improve predictive performance.
 Hyperparameter Tuning: Use Grid Search or Random Search to find the optimal parameters for the model.
 Data Augmentation: Incorporate more data, such as additional news sources, social media sentiment, or other financial indicators.
+
+
+
+Acknowledgements
+Stock Price Data: Provided by https://www.kaggle.com/code/siddharthtyagi/stock-sentiment-analysis-using-news-headlines/input
+Sentiment Data: Provided by https://www.kaggle.com/datasets/siddharthtyagi/news-headlines-dataset-for-stock-sentiment-analyze
